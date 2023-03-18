@@ -1,0 +1,8 @@
+a = set()
+print(type(a))
+a.add(4)
+a.add(3)
+a.add(5)
+a.add(8)
+a.add(9)
+print(a)
